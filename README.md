@@ -1,16 +1,82 @@
-# React + Vite
+# 🔐 PassMan – Your Own Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## PassMan is a simple and secure password manager built using React.js.
+#### It helps you store and manage your website credentials — site URL, username, and password — locally in your browser using Local Storage, ensuring privacy and full client-side control.
 
-Currently, two official plugins are available:
+```🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Save, view, edit, and delete your passwords
+✅ Copy site, username, or password with a single click
+✅ Toggle password visibility
+✅ Data is stored only in Local Storage (no external database)
+✅ Interactive toast notifications for every action
+✅ Clean, minimal, and responsive UI built with Tailwind CSS
+✅ Icons and animations powered by Lordicon
+```
+### 🛠️ Tech Stack
+```
+React.js – Frontend Framework
 
-## React Compiler
+Tailwind CSS – Styling
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React Toastify – Notifications
 
-## Expanding the ESLint configuration
+UUID – Unique ID generation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Local Storage – Client-side data persistence
+```
+### 📂 Project Setup
+
+To run the project locally:
+
+- Clone the repository
+``` 
+git clone https://github.com/<your-username>/passman.git 
+```
+- Navigate to project folder
+```
+cd passman
+```
+- Install dependencies
+```
+npm install
+```
+- Run the development server
+```
+npm run dev
+```
+
+
+- Now open your browser and go to http://localhost:5173/
+ 🚀
+
+### 🧠 How It Works
+
+- Enter the website URL, username, and password.
+
+- Click the Save! button — your credentials are stored in local storage.
+
+- View all saved credentials in a neat, responsive table.
+
+- Easily copy, edit, or delete any saved password.
+
+### 📸 Screenshot
+![Screenshot of PassMan](./public/1.png)
+![Screenshot of PassMan](./public/2.png)
+
+
+# 📜 License
+
+This project is open-source and available under the MIT License.
+
+💡 Author
+
+-Aman
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aman-1206)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-a2ba54361)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@example.com)
+
+
+Created with ❤️ and Chai.
