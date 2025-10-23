@@ -56,11 +56,11 @@ const Manager = () => {
   };
 
   const showPassword = () => {
-    if (ref.current.src.includes("/public/eye-cross.png")) {
-      ref.current.src = "/public/eye.png";
+    if (ref.current.src.includes("/eye-cross.png")) {
+      ref.current.src = "/eye.png";
       passwordRef.current.type = "password";
     } else {
-      ref.current.src = "/public/eye-cross.png";
+      ref.current.src = "/eye-cross.png";
       passwordRef.current.type = "text";
     }
   };
@@ -171,7 +171,7 @@ const Manager = () => {
                 placeholder="Password"
               />
               <img
-                src="./public/eye.png"
+                src="/eye.png"
                 alt="Show password"
                 className="absolute right-3 top-1/2 -translate-y-1/2 w-7 h-7 cursor-pointer"
                 ref={ref}
