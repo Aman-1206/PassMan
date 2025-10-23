@@ -15,15 +15,15 @@
 ```
 ### 🛠️ Tech Stack
 ```
-React.js – Frontend Framework
+- React.js – Frontend Framework
 
-Tailwind CSS – Styling
+- Tailwind CSS – Styling
 
-React Toastify – Notifications
+- React Toastify – Notifications
 
-UUID – Unique ID generation
+- UUID – Unique ID generation
 
-Local Storage – Client-side data persistence
+- Local Storage – Client-side data persistence
 ```
 ### 📂 Project Setup
 
@@ -75,8 +75,13 @@ This project is open-source and available under the MIT License.
 ## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aman-1206)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-kumar-a2ba54361)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@example.com)
 
 
-Created with ❤️ and Chai.
+[![Instagram](https://img.shields.io/badge/Instagram-792a9b?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aman.cpp_/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankumarschool7@gmail.com)
+
+
+# Created with ❤️ and Chai.
