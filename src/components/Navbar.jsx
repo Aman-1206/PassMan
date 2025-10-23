@@ -11,7 +11,7 @@ const Navbar = () => {
 
             <div className="github ">
                 <a
-                    href="https://github.com/"
+                    href="https://github.com/Aman-1206/PassMan.git"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
